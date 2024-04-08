@@ -1068,7 +1068,7 @@ footer p{
         display: block;
     }
     .navigation .menu ul{
-        padding: 30px;
+        padding: 1px;
         flex-direction: column;
     }
     .navigation .menu{
