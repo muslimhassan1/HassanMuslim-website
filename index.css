@@ -1348,7 +1348,7 @@ footer{
     width: 100%;
     position: relative;
     bottom: 0;
-    background: #87ceeb;
+    background:  rgb(49, 49, 49);
     height: auto;
 }
 
@@ -1365,7 +1365,7 @@ footer{
 
 .footer-col h2, .socials h2{
     font-size: 26px;
-    color: #111;
+    color: rgba(214, 214, 214, 0.938);
     font-weight: 550;
 }
 
